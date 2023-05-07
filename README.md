@@ -7,3 +7,4 @@ Ti front-end code ti website ket open source, maawat tapno makatulong a mang-opt
 * [kodigo ti sango-ungto](https://github.com/xxai-art/web)
 * [Dagiti pakete ti pagsasao para iti pakabuklan ti site](https://github.com/xxai-art/web/tree/main/i18n)
 * [Dagiti pakete ti pagsasao para kadagiti modulo ti panaglogin](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Website Multilingual a Dokumentasion](https://github.com/xxai-doc)
