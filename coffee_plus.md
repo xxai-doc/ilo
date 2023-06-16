@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , manginayon kadagiti sumagmamano a tampok a naibatay iti sintaksis ti coffeescript, kitaen [ti coffee_plus](./coffee_plus.md) .
 
-* ideklara ti variable
+## ideklara ti variable
 
 ```
 + var1, var2
 ```
 
-* etiketa ti deklarasion
+## etiketa ti deklarasion
 
 `:$` ket para iti panagusar iti [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* napartak nga ag-import
+## napartak nga ag-import
 
 ```
 > zx/globals:
