@@ -17,14 +17,14 @@ Ti pagsasao ti panagprograma iti sango a murdong ket [@w5/coffee_plus](http://np
 
 Build on dagiti sumaganad a 3 a proyekto
 
-### [@w5/mdt nga](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt nga](https://www.npmjs.com/package/@w5/mdt)
 
-Ti plantilia ti markdown, nga addaan iti suffix `.mdt` , ket mabalin a mangitudo kadagiti akinruar a papeles nga addaan iti sintaksis a kapada ti `<+ ./coffee_plus/import.js>` .
+  Ti suffix ket `.mdt` , mabalinmo nga usaren ti sintaksis a kapada ti `<+ ./coffee_plus/import.js>` tapno mangitudo kadagiti akinruar a papeles, ken mangpataud ti markdown babaen ti suffix `.md` .
 
-[@w5/trmd nga](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd nga](https://www.npmjs.com/package/@w5/trmd)
 
-Ti panagipatarus ti Markdown ket saan nga agipatarus kadagiti kodigo ken silpo, ken mangi-cache kadagiti naipatarus a sentensia. No ti patarus ket nabaliwan ngem ti orihinal a teksto ket saan a nabaliwan, ti panangipatungpal manen iti daytoy ket saan a mangsukog ti pannakabalbaliw ti patarus.
+  Ti panagipatarus ti Markdown ket saan nga agipatarus kadagiti kodigo ken silpo, ken mangi-cache kadagiti naipatarus a sentensia. No ti patarus ket nabaliwan ngem ti orihinal a teksto ket saan a nabaliwan, ti panangipatungpal manen iti daytoy ket saan a mangsukog ti pannakabalbaliw ti patarus.
 
-[@w5/i18n nga](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n nga](https://www.npmjs.com/package/@w5/i18n)
 
-Dagiti file ti pagsasao para iti panagipatarus kadagiti website a pinartuat `yaml` .
+  Dagiti file ti pagsasao para iti panagipatarus kadagiti website a pinartuat `yaml` .
